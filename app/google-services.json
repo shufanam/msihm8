@@ -1,0 +1,106 @@
+{
+  "project_info": {
+    "project_number": "236866565583",
+    "firebase_url": "https://locale-lite-b5778-default-rtdb.firebaseio.com",
+    "project_id": "locale-lite-b5778",
+    "storage_bucket": "locale-lite-b5778.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:236866565583:android:24c1acba5c95f3cac34eba",
+        "android_client_info": {
+          "package_name": "com.codecademy.handyman_java_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "236866565583-inj7q7gubf117sra339lspcnb57ej4b6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0fue3PyP0nHqSG9fD3S6WunGcpBumgn0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "236866565583-3pt22ou267evvaf2lccdmsbttjstvmlv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:236866565583:android:b5002452433f2db3c34eba",
+        "android_client_info": {
+          "package_name": "com.msihm2.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "236866565583-inj7q7gubf117sra339lspcnb57ej4b6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0fue3PyP0nHqSG9fD3S6WunGcpBumgn0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "236866565583-3pt22ou267evvaf2lccdmsbttjstvmlv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:236866565583:android:02d5ce0466c3ffc4c34eba",
+        "android_client_info": {
+          "package_name": "com.msihm8.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "236866565583-o6272pq9srna19vsjuf5olr5riai6evv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.msihm8.app",
+            "certificate_hash": "dde26e491deff990d2072e423b72e3cadd470e59"
+          }
+        },
+        {
+          "client_id": "236866565583-inj7q7gubf117sra339lspcnb57ej4b6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0fue3PyP0nHqSG9fD3S6WunGcpBumgn0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "236866565583-3pt22ou267evvaf2lccdmsbttjstvmlv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
